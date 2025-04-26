@@ -47,7 +47,6 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/worldvectorlogo.svg" width="100" />
-<img src="" width="100" />
 
 </div>
 
