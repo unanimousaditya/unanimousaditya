@@ -59,15 +59,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
   
   ## 😄 Code Humor 😄
   
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=28&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Developer+Jokes" alt="Section Heading" />
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://readme-jokes.vercel.app/api??type=horizontal&theme=dark" width="600" alt="Developer Joke"/>
-      </td>
-    </tr>
-  </table>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
 
