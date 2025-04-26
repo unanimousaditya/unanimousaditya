@@ -15,11 +15,17 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=unanimousaditya&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical)
+  ## ✨ Developer Inspiration ✨
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" height="auto" alt="Dev Quote"/>
+  
+  ## 😂 Code Humor Break 😂
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=FFFFFF&qColor=00FFFF&aColor=FFC0CB" width="600" height="auto" alt="Dev Joke"/>
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=unanimousaditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
