@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![👋 Hi, my name is Aditya Raj](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Aditya Raj](https://github.com/unanimousaditya/unanimousaditya/blob/main/images/1.gif)
 
 </div>
 
