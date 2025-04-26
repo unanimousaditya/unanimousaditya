@@ -59,7 +59,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
   
   ## 😄 Code Humor 😄
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=dark&hide_border=false&card_width=495)
 
 </div>
 
