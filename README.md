@@ -17,6 +17,23 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 ## 🌐 Favorites: 🌐
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="150" alt="Python Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="150" alt="HTML Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="150" alt="CSS Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="150" alt="Tailwind CSS Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="150" alt="Github Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="150" alt="Kotlin Logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="150" alt="Vitejs Logo" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
+<img src="" width="150" alt="" />
 
 </div>
 
