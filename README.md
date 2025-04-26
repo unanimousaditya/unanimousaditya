@@ -46,8 +46,12 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 </div>
 
+<div align="center">
+  
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=unanimousaditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 
   ## 💰 You can help me by Donating
