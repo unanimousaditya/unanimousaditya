@@ -15,7 +15,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 <div align="center">
   
-![Python Logo](https://cdn.worldvectorlogo.com/logos/python-5.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" alt="Python Logo" />
 
 </div>
 
