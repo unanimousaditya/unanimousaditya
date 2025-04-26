@@ -16,15 +16,15 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=unanimousaditya&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
-  <div style="background-color:#0d1117; padding:25px; border-radius:12px; margin-bottom:20px; border:1px solid #30363d; box-shadow:0 8px 24px rgba(0,0,0,0.2)">
-    <h3 style="color:#58a6ff; font-weight:600; margin-bottom:18px; font-family:'Segoe UI',Helvetica,Arial,sans-serif">💭 Developer Wisdom</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border_color=30363d" width="100%" alt="Developer Quote"/>
-  </div>
-  
-  <div style="background-color:#0d1117; padding:25px; border-radius:12px; border:1px solid #30363d; box-shadow:0 8px 24px rgba(0,0,0,0.2)">
-    <h3 style="color:#58a6ff; font-weight:600; margin-bottom:18px; font-family:'Segoe UI',Helvetica,Arial,sans-serif">😄 Code Humor</h3>
-    <img src="https://readme-jokes.vercel.app/api?theme=github_dark&borderColor=30363d&textColor=58a6ff&qColor=c9d1d9&aColor=7ee787" width="100%" alt="Developer Joke"/>
-  </div>
+
+## 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border_color=30363d" width="90%" alt="Developer Quote"/>
+
+## 😄 Code Humor
+
+<img src="https://readme-jokes.vercel.app/api?theme=github_dark&borderColor=30363d&textColor=58a6ff&qColor=c9d1d9&aColor=7ee787" width="90%" alt="Developer Joke"/>
+
 </div>
 
 ### 🔝 Top Contributed Repo
