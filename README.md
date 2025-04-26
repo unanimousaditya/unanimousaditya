@@ -55,15 +55,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
   
   ## ✨ Developer Inspiration ✨
   
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=28&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Developer+Quotes" alt="Section Heading" />
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" alt="Developer Quote"/>
-      </td>
-    </tr>
-  </table>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?layout=churchill&theme=merko)
   
   ## 😄 Code Humor 😄
   
