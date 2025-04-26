@@ -97,10 +97,10 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <div align="center">
   
 ### 🎵 My Favorite Tracks
-<audio controls>
-  <source src="https://github.com/unanimousaditya/unanimousaditya/raw/main/audio/my-song.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<audio controls preload="none">
+    <source src="https://raw.githubusercontent.com/unanimousaditya/unanimousaditya/main/audio/my-song.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 
 </div>
 
