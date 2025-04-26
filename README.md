@@ -16,14 +16,28 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=unanimousaditya&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
-
-## 💭 Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border_color=30363d" width="90%" alt="Developer Quote"/>
-
-## 😄 Code Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=github_dark&borderColor=30363d&textColor=58a6ff&qColor=c9d1d9&aColor=7ee787" width="90%" alt="Developer Joke"/>
+  
+  <div style="border-radius:10px; overflow:hidden; margin-bottom:2.5rem; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
+    <div style="background:linear-gradient(135deg, #6e8efb, #a777e3); padding:1.5rem 2rem;">
+      <h2 style="font-family:'Poppins', sans-serif; font-weight:600; color:white; margin:0; letter-spacing:0.5px; font-size:1.75rem;">
+        ✨ Developer Inspiration
+      </h2>
+    </div>
+    <div style="background:#1d1e26; padding:1.5rem;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=30363d" width="100%" alt="Developer Quote"/>
+    </div>
+  </div>
+  
+  <div style="border-radius:10px; overflow:hidden; box-shadow:0 10px 30px rgba(0,0,0,0.15);">
+    <div style="background:linear-gradient(135deg, #fc466b, #3f5efb); padding:1.5rem 2rem;">
+      <h2 style="font-family:'Poppins', sans-serif; font-weight:600; color:white; margin:0; letter-spacing:0.5px; font-size:1.75rem;">
+        🎭 Code Humor
+      </h2>
+    </div>
+    <div style="background:#1d1e26; padding:1.5rem;">
+      <img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=121212&qColor=f8f8f2&aColor=8be9fd" width="100%" alt="Developer Joke"/>
+    </div>
+  </div>
 
 </div>
 
