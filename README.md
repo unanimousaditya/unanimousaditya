@@ -16,24 +16,38 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <div align="center">
 
 ## 🌐 Favorites: 🌐
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="100" alt="Python Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="100" alt="HTML Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="100" alt="CSS Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="100" alt="Tailwind CSS Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="100" alt="Github Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="100" alt="Kotlin Logo" />
-<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="100" alt="Vitejs Logo" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
-<img src="" width="150" alt="" />
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/qt-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/database-labs-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/chatgpt-6.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/worldvectorlogo.svg" width="100" />
+<img src="" width="100" />
 
 </div>
 
