@@ -1,12 +1,27 @@
+<div align="center">
+  
 # 💫 About Me: Hi, my name is Aditya Raj
 
+</div>
+
+<div align="center">
+  
 ![👋 Hi, my name is Aditya Raj](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+</div>
+
+<div align="center">
+  
 Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious entrepreneur 📈, and lifelong learner 🎓, blending dreams 🌟 with action ⚡ every single day.<br><br>As the Founder & CEO of LogiXpress 🚚📦, I’m not just moving goods across India 🇮🇳 — I’m moving visions, goals, and dreams 🛤️. Logistics, to me, is not just trucks and warehouses — it’s the invisible force 🌪️ that powers businesses, fuels ambitions, and connects lives 🌍.<br><br>I live at the crossroads 🛤️ of technology 🤖, business strategy 📊, and creative innovation 🎨.<br>Coding late into the night 🌙, building scalable operations 🏗️, and dreaming of smarter, faster, better futures 🛸 — that's my rhythm 🎶.<br><br>Leadership 🧠, hustle 🏃‍♂️, and resilience 🛡️ aren't just buzzwords for me — they’re the code I live by 🧬.<br>Every problem is a puzzle 🧩 waiting to be cracked. Every challenge is an opportunity 🌱. Every failure? Just more fuel for the fire 🔥.<br><br>My mission?<br>✅ Build smarter logistics solutions 🛠️<br>✅ Scale ideas into impact 📣<br>✅ Turn "what ifs" into "what’s next" 🚀<br><br>I believe that success 🏆 is born where passion ❤️ meets precision 🎯 — and where dreams are too big to stay dreams.<br><br>Still studying 📚. Still grinding 💪. Still dreaming bigger every single day 🛌✨.<br>And trust me — I’m just getting started 🛤️🌟.<br><br>Let's connect 🤝, build 💡, and change the game together 🎮🌍.
 
+</div>
 
+<div align="center">
+  
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/unanimousaditya ) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/unanimousaditya ) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unanimousaditya ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/unanimousaditya ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unanimousaditya ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-053a25340/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@unanimousaditya ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/unanimousaditya ) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/unanimousaditya ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/unanimousaditya ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/unanimousaditya ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@unanimousaditya ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/unanimousaditya ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/unanimousaditya ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@unanimousaditya ) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/unanimousaditya ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@unanimousaditya ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaxrajx21@gmail.com) 
+
+</div>
 
 
 
