@@ -31,7 +31,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
   
   ## 😄 Code Humor
   
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=28&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Developer+Quotes" alt="Section Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=28&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Developer+Jokes" alt="Section Heading" />
   
   <table>
     <tr>
