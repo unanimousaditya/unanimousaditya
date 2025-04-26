@@ -94,5 +94,16 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 </div>
 
+<div align="center">
+  
+### 🎵 My Favorite Tracks
+- [Blinding Lights - The Weeknd](https://www.youtube.com/watch?v=4NRXx6U8ABQ)
+- [Dreams - Fleetwood Mac](https://www.youtube.com/watch?v=mrZRURcb1cM)
+- [Stay - The Kid LAROI & Justin Bieber](https://www.youtube.com/watch?v=kTJczUoc26U)
+- [Heat Waves - Glass Animals](https://www.youtube.com/watch?v=mRD0-GxqHVo)
+- [Industry Baby - Lil Nas X](https://www.youtube.com/watch?v=UTHLKHL_whs)
+
+</div>
+
   
 
