@@ -14,7 +14,8 @@
 Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious entrepreneur 📈, and lifelong learner 🎓, blending dreams 🌟 with action ⚡ every single day.<br><br>As the Founder & CEO of LogiXpress 🚚📦, I’m not just moving goods across India 🇮🇳 — I’m moving visions, goals, and dreams 🛤️. Logistics, to me, is not just trucks and warehouses — it’s the invisible force 🌪️ that powers businesses, fuels ambitions, and connects lives 🌍.<br><br>I live at the crossroads 🛤️ of technology 🤖, business strategy 📊, and creative innovation 🎨.<br>Coding late into the night 🌙, building scalable operations 🏗️, and dreaming of smarter, faster, better futures 🛸 — that's my rhythm 🎶.<br><br>Leadership 🧠, hustle 🏃‍♂️, and resilience 🛡️ aren't just buzzwords for me — they’re the code I live by 🧬.<br>Every problem is a puzzle 🧩 waiting to be cracked. Every challenge is an opportunity 🌱. Every failure? Just more fuel for the fire 🔥.<br><br>My mission?<br>✅ Build smarter logistics solutions 🛠️<br>✅ Scale ideas into impact 📣<br>✅ Turn "what ifs" into "what’s next" 🚀<br><br>I believe that success 🏆 is born where passion ❤️ meets precision 🎯 — and where dreams are too big to stay dreams.<br><br>Still studying 📚. Still grinding 💪. Still dreaming bigger every single day 🛌✨.<br>And trust me — I’m just getting started 🛤️🌟.<br><br>Let's connect 🤝, build 💡, and change the game together 🎮🌍.
 
 <div align="center">
-  
+
+## 🌐 Favorites: 🌐
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="150" alt="Python Logo" />
 
 </div>
