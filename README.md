@@ -55,7 +55,6 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="100" />
@@ -77,7 +76,6 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/razer.svg" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/hubspot-1.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" width="100" />
