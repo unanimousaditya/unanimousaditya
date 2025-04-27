@@ -126,6 +126,10 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 
 
+![snake gif](https://github.com/unanimousaditya/unanimousaditya/blob/output/github-snake-dark.svg)
+
+
+
 
   
 
