@@ -125,11 +125,12 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 </div>
 
 
+<div align="center">
 
 ![snake gif](https://github.com/unanimousaditya/unanimousaditya/blob/output/github-snake-dark.svg)
 
 
-
+</div>
 
   
 
