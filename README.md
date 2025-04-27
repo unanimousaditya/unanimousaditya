@@ -124,5 +124,8 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
 </div>
 
+
+![snake animation](https://github.com/<seu unanimousaditya>/<seu unanimousaditya>/blob/output/github-contribution-grid-snake2.svg)
+
   
 
