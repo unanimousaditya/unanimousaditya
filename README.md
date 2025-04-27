@@ -119,9 +119,11 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 ### 🎵 My Favorite Tracks 🎵
 <audio controls preload="none">
     <source src="https://raw.githubusercontent.com/unanimousaditya/unanimousaditya/main/audio/my-song.mp3" type="audio/mpeg">
-  
+  <div align="center">
+    
     Your browser does not support the audio element.
     
+  </div>
   </audio>
 
 </div>
