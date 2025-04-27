@@ -47,6 +47,53 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/worldvectorlogo.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/trustpilot-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/hp-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/nokia-3.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ebay.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-authenticator-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/razer.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/hubspot-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-encore-cs6-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/archlabs-linux.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="100" />
+
+
 
 </div>
 
