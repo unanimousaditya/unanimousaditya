@@ -121,7 +121,7 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
     <source src="https://raw.githubusercontent.com/unanimousaditya/unanimousaditya/main/audio/my-song.mp3" type="audio/mpeg">
   <div align="center">
     
-    I used to believe We were burning on the edge of something beautiful
+    I used to believe We were burning on the edge of something beautiful Something beautiful Selling a dream Smoke and mirrors keep us waiting on a miracle On a miracle
     
   </div>
   </audio>
