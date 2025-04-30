@@ -129,6 +129,9 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 ## 🏆 GitHub Trophies 🏆
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=unanimousaditya&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=unanimousaditya&theme=radical)](https://github.com/unanimousaditya)
+
+
 </div>
 
 
