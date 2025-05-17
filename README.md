@@ -16,11 +16,17 @@
 
 <div align="center">
   
-# 👋 Hello World! I'm Aditya Raj
+# 👋 Hello World! I'm Aditya Raj 👋
 
 </div>
 
+
+<div align="center">
+
 ## 🚀 Tech Visionary | 🏗️ Founder & CEO @LogiXpress | 🌟 Digital Architect | 🔍 Problem Solver Extraordinaire
+
+</div>
+
 
 ---
 
@@ -92,7 +98,7 @@ I'm always open to conversations that challenge my thinking and expand possibili
 
 ## 📲 Reach Out
 
-- 📧 Email: [your.email@example.com](mailto:adityaxrajx21@gmail.com)
+- 📧 Email: [adityaxrajx21@gmail.com](mailto:adityaxrajx21@gmail.com)
 - 💼 LinkedIn: [Aditya Raj](https://logixpress.odoo.com/)
 - 🐦 Twitter: [Aditya Raj](https://twitter.com/unanimousaditya)
 - 🌐 Website: [LogiXpress](https://logixpress.odoo.com)
@@ -100,11 +106,14 @@ I'm always open to conversations that challenge my thinking and expand possibili
 
 ---
 
+<div align="center">
+
 > "The difference between the impossible and the possible lies in determination." — Tommy Lasorda
+
+</div>
 
 ---
 
-**Remember: While others are planning their weekends, I'm planning the next decade of innovation.** 🚀✨
 
 
 
