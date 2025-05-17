@@ -112,6 +112,19 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/rockstar-games.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/riot-games.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/epic-games-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ea-games-pure-design.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/minecraft.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/msi-5.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ubisoft-logo.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/gameloft-3.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/steam-icon.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/csgo.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/xbox-flat.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="100" />
 
 
 
