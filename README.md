@@ -125,6 +125,15 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 <img src="https://cdn.worldvectorlogo.com/logos/csgo.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/xbox-flat.svg" width="100" />
 <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/wolfram-language.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/the-julia-programming-language.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/ryzen.svg" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/amd-advanced-micro-devices-white.svg" width="100" />
 
 
 
