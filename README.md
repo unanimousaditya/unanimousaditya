@@ -140,8 +140,8 @@ Hey there! I’m Aditya Raj 🚀 — a passionate tech explorer 🔍, ambitious 
 
   
 # 📊 GitHub Stats: 📊
-![](https://github-readme-stats.vercel.app/api?username=unanimousaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=495)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=unanimousaditya&theme=dark&hide_border=false&card_width=495)<br/>
+![](https://github-readme-stats.vercel.app/api?username=unanimousaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=495)
+![](https://nirzak-streak-stats.vercel.app/?user=unanimousaditya&theme=dark&hide_border=false&card_width=495)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unanimousaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)
 
 </div>
