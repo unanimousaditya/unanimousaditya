@@ -13,8 +13,12 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
   
 # 👋 Hello World! I'm Aditya Raj
+
+</div>
 
 ## 🚀 Tech Visionary | 🏗️ Founder & CEO @LogiXpress | 🌟 Digital Architect | 🔍 Problem Solver Extraordinaire
 
