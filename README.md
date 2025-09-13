@@ -418,7 +418,7 @@ I'm always open to conversations that challenge my thinking and expand possibili
 # 📊 Visitor's Count: 📊
 <!-- Visitor's Count -Start-->
 <p align="center">
-<a href="https://gist.github.com/unanimousaditya"><img src="https://profile-counter.glitch.me/{unanimousaditya}/count.svg" alt="unanimousaditya :: Visitor's Count" /></a>
+<a <img src="https://count.getloli.com/@unanimousaditya?name=unanimousaditya&theme=food&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1&prefix=20000" alt="unanimousaditya :: Visitor's Count" /></a>
 </p>
 <!-- Visitor's Count -End-->
 </div>
