@@ -419,7 +419,7 @@ I'm always open to conversations that challenge my thinking and expand possibili
 <!-- Visitor's Count -Start-->
 <p align="center">
   <a href="https://github.com/unanimousaditya">
-    <img src="https://count.getloli.com/@unanimousaditya?name=unanimousaditya&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1&prefix=16520" alt="Visitor's Count" />
+    <img src="https://count.getloli.com/@unanimousaditya?name=unanimousaditya&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1&num=16520" alt="Visitor's Count" />
   </a>
 </p>
 <!-- Visitor's Count -End-->
